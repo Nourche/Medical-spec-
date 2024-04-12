@@ -3,7 +3,7 @@ import Nasa from '../img/gyneco.jpg';
 const ImageFour = () => (
     <Parallax className='image' blur={0} bgImage={Nasa} strength={800} bgImageStyle={{minHeight:"100vh"}}>
         <div className='content'>
-            <span className="img-txt">gynécologie</span>
+            <span className="img-txt">la gynécologie</span>
         </div>
     </Parallax>
 );
