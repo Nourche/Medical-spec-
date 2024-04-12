@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Medical-spec-/static/css/main.b4d9ad44.css",
+    "main.js": "/Medical-spec-/static/js/main.bfb1a032.js",
+    "static/media/ophtalmo.jpg": "/Medical-spec-/static/media/ophtalmo.69eb9d76ce54663cae35.jpg",
+    "static/media/add.jpg": "/Medical-spec-/static/media/add.540a2abcb149ffd05b52.jpg",
+    "static/media/gyneco.jpg": "/Medical-spec-/static/media/gyneco.b6631d07dbb0dc46f32b.jpg",
+    "static/media/ped.jpg": "/Medical-spec-/static/media/ped.c52e3f712a509f9241e2.jpg",
+    "static/media/cardio.jpg": "/Medical-spec-/static/media/cardio.fafbdafdd52954e369cf.jpg",
+    "static/media/psych.jpg": "/Medical-spec-/static/media/psych.de68b2042f95aa92f317.jpg",
+    "index.html": "/Medical-spec-/index.html",
+    "main.b4d9ad44.css.map": "/Medical-spec-/static/css/main.b4d9ad44.css.map",
+    "main.bfb1a032.js.map": "/Medical-spec-/static/js/main.bfb1a032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d9ad44.css",
+    "static/js/main.bfb1a032.js"
+  ]
+}
