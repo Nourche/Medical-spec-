@@ -11,10 +11,13 @@ import TextBox3 from './components/TextBox3'
 import TextBox4 from './components/TextBox4'
 import TextBox5 from './components/TextBox5'
 import TextBox6 from './components/TextBox6'
+import Footer from './components/footer'
+import Header from './components/header'
 
 function App() {
   return (
     <div>
+      <Header/>
       <ImageOne />
       <TextBox />
       <ImageTwo />
@@ -27,6 +30,9 @@ function App() {
       <TextBox5/>
       <ImageSix/>
       <TextBox6/>
+      <Footer/>
+      
+      
       
     </div>
   );
